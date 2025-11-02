@@ -90,5 +90,5 @@ This project is licensed under the **MIT License** — feel free to use and modi
 
 ## 👨‍💻 Author
 **Rohit Khobare**  
-📧 Contact: [your-email@example.com]  
-🌐 GitHub: [https://github.com/YourUsername](https://github.com/YourUsername)
+📧 Contact: [rohitkhobare2005@gmail.com]  
+🌐 GitHub: [https://github.com/RohitKhobare]
